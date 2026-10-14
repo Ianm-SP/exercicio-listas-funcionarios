@@ -20,14 +20,6 @@ O programa gerencia o cadastro de funcionários de uma empresa. O sistema permit
   * Listas (`List<T>`)
   * Estruturas de repetição e controle (`for`, `foreach`, `while`, `if`)
 
-## ▶️ Como Executar
-
-```bash
-git clone https://github.com/Ianm-SP/Exercicio-funcionarios.git
-cd Exercicio-funcionarios
-dotnet run
-```
-
 ## 💻 Exemplo de Uso
 
 ```
